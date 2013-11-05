@@ -1,0 +1,10 @@
+.errai
+.factorypath
+.settings
+.classpath
+.project
+target
+src/main/webapp/WEB-INF/classes
+src/main/webapp/WEB-INF/lib
+src/main/webapp/app
+src/main/webapp/WEB-INF/deploy
